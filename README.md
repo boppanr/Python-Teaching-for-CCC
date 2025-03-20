@@ -1,1 +1,1 @@
-# Python-Teaching-for-CCC
+# Python-Teaching
